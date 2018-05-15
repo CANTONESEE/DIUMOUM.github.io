@@ -1,11 +1,6 @@
-<!doctype html><!--声明是一个HTML文件-->
+<!doctype html>
 <html>
-  <!--头部开始-->
-  <head>
-    <title>网页标题</title>
-  </head>
-  <!--头部结束-->
-  <!--主体开始-->
+  head>
   <body>
     <p align="center"><span style="font-size:50px;"><b>CANTONESE NEWS TIME</b></span> </p>
     <p align="center"><span style="font-size:50px;">联合国秘书长</span> 
